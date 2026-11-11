@@ -1,0 +1,32 @@
+{
+ "name": "VocabUp – IELTS & HSK4",
+ "short_name": "VocabUp",
+ "description": "Học từ vựng IELTS và HSK4 theo ôn ngắt quãng",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#fff5f8",
+ "theme_color": "#ec4f8b",
+ "lang": "vi",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
